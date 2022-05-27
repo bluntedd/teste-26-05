@@ -1,0 +1,23 @@
+{
+  "name": "teste-26-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluntedd/teste-26-05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluntedd/teste-26-05/issues"
+  },
+  "homepage": "https://github.com/bluntedd/teste-26-05#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
